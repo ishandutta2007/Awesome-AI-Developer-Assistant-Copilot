@@ -32,65 +32,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The AI developer assistant and copilot market is estimated at **$4.1 billion to $11+ billion in 2026**, growing at an aggressive compound annual growth rate (CAGR) of **23%–31%**. Structurally, the sector exhibits a **concentrated core with a highly fragmented innovation frontier**: enterprise revenue and enterprise contracts are concentrated among hyperscale cloud incumbents (Microsoft/GitHub and AWS), while developer mindshare and editor innovations remain fiercely fragmented across fast-moving AI-native startups and agentic IDE disruptors.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **GitHub Copilot**
-
-  **AI pair programmer** integrated across GitHub, VS Code, and JetBrains. **Pricing**: **Free** (limited completions, chat, agent usage); **Pro $10/month** ($15 total included usage: $10 base + $5 flex); **Pro+ $39/month** ($70 total: $39 base + $31 flex); **Max $100/month** ($200 total: $100 base + $100 flex) . Usage-based billing since June 2026; code completions and next edit suggestions remain unlimited on paid plans . **Free tier**: Yes, limited. **Best for**: teams already in GitHub ecosystem wanting seamless integration with unlimited completions—**trade-off**: premium model usage consumes credits; flex allotment can change over time .
-
-
-
-- **Cursor**
-
-  **AI-first code editor** (VS Code fork) with agentic workflows. **Pricing**: **Hobby** (free, limited); **Pro $20/month**; **Pro+ $60/month**; **Ultra $200/month**; **Teams $40/user/month**; **Enterprise** custom. India-specific **Start plan ₹649/month** includes Grok and Composer models, cloud agents, iOS remote control . **Free tier**: Yes, limited. **Best for**: developers wanting AI as their primary editor with built-in agents and Tab completion—**trade-off**: requires adopting a new IDE; BYOK requests on team plans can carry $0.25/M token Cursor Token Rate and fall outside zero-retention agreements .
-
-
-
-- **Tabnine**
-
-  **Privacy-focused AI code assistant** with self-hosted options. **Pricing**: **No free plan**; **Dev $39/user/month** (formerly $9—now includes agentic workflows); **Enterprise** custom. **5% fee on token prices** for pass-through model use; self-hosted infrastructure costs move to your books . **Free tier**: None (former free plan retired). **Best for**: regulated industries requiring on-premises/air-gapped deployment—**trade-off**: expensive; LLM costs stack on subscription for agentic tasks .
-
-
-
-- **Windsurf (Codeium)**
-
-  **AI-powered IDE** (VS Code fork). **Pricing**: **Free** (25 credits/month); **Pro $15/month** (500 credits); **Teams $30/user/month**; **Enterprise $60/user/month**. Acquired by Cognition AI in December 2025 for ~$250M; ranked #1 in LogRocket AI Dev Tool Power Rankings (Feb 2026) . **Free tier**: Yes, 25 credits/month—most generous among AI IDEs. **Best for**: budget-conscious teams wanting agentic coding (Cascade) at the lowest paid entry—**trade-off**: credits metered; acquired, so roadmap may shift .
-
-
-
-- **Amazon Q Developer**
-
-  **AWS-native AI assistant** (successor to CodeWhisperer). **Pricing**: **Free** (50 agentic requests/month, code completion, security scans); **Pro $19/user/month** (1,000 agentic requests, 4,000 lines of code/month, SSO, data isolation) . **Free tier**: Yes, 50 requests/month. **Best for**: AWS-centric teams wanting integrated cloud assistance and security scanning—**trade-off**: best value within AWS ecosystem; less compelling outside .
-
-
-
-- **Sourcegraph Cody**
-
-  **AI coding assistant** with codebase context. **Pricing**: **Free** (unlimited autocomplete, 200 chats/prompts/month); **Pro $9/user/month** (unlimited chats, all model options) . **Free tier**: Yes, generous. **Best for**: teams wanting codebase-aware chat at accessible pricing—**trade-off**: less agentic than Cursor or Copilot agents; enterprise requires sales .
-
-
-
-- **Replit AI**
-
-  **Cloud IDE with AI Agent**. **Pricing**: **Starter** (free, daily agent allowance, limited cloud credits, 1 published app); **Core $20/month** ($20 credits, full Agent, 1 parallel task, 5 collaborators); **Pro $100/month** (10 parallel tasks, 15 builders, credit rollover for 2 months) . **Free tier**: Yes, daily allowance. **Best for**: developers wanting browser-based coding with built-in Agent—**trade-off**: credit-based; parallel tasks limited by tier .
-
-
-
-- **Postman AI Assistant**
-
-  **AI Agent Mode** within Postman. **Pricing**: **Free** (50 credits/user/month); **Solo** (400 credits, $0.05/credit); **Basic** ($0.04); **Professional** ($0.035); **Enterprise** (800 pooled, $0.035) . **Free tier**: Yes, 50 credits/month. **Best for**: API developers wanting AI-assisted request generation and testing—**trade-off**: credits consumed per AI action; Agent Mode available on all plans .
+| Product | Company Valuation / Market Cap / Revenue | Pricing (Starting Paid Tier) | Free Tier / Trial Limits | Key Features & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **GitHub Copilot** | **~$3.94T Market Cap** (Microsoft / GitHub: ~$2B+ ARR) | **$10/user/month** (Pro plan: $10 base + $5 flex usage credit) | **Free tier available**: Capped at 2,000 code completions/month, basic chat, and entry models (Claude Haiku, GPT-mini). | Seamless GitHub, VS Code, and JetBrains integration; unlimited inline completions on paid tiers. |
+| **Amazon Q Developer** | **~$2.81T Market Cap** (Amazon / AWS) | **$19/user/month** (Pro plan: 1,000 agentic requests, 4,000 lines of code/mo, SSO, data isolation) | **Free tier available**: 50 agentic requests/month, code completions, and security vulnerability scans. | Best for AWS-centric teams needing deep cloud infrastructure integration and security scanning. |
+| **Windsurf** | **~$10.2B–$26B Valuation** (Cognition AI / Codeium: ~$490M+ ARR) | **$15/user/month** (Pro plan: 500 Cascade agent credits) | **Free tier available**: 25 credits/month (most generous permanent free allowance among AI IDEs). | AI-powered IDE with Cascade flow; low entry price for agentic coding. |
+| **Replit AI** | **~$9B Valuation** (~$150M+ ARR) | **$20/month** (Core plan: $20 cloud credits, full Agent, 1 parallel task, 5 collaborators) | **Free tier available (Starter plan)**: Daily AI agent allowance, 1,200 dev minutes (20 hrs/mo), 1 vCPU, 2 GiB RAM, 1 published app. | Best for browser-based prototyping and full-stack autonomous application building. |
+| **Postman AI Assistant** | **~$3.6B–$5.6B Valuation** (~$313M+ ARR) | **$14/user/month** (Basic plan, billed annually: AI actions at $0.04/credit; Solo at $0.05/credit) | **Free tier available**: 50 AI Assistant credits/user/month for API generation, documentation, and testing. | Best for API developers seeking AI-driven endpoint testing, mock creation, and documentation. |
+| **Cursor** | **~$2.5B–$9.9B Valuation** (Anysphere: ~$1B ARR) | **$20/month** (Pro plan; India Start plan at ₹649/month) | **Free tier available (Hobby plan)**: Capped at ~2,000 code completions/month and 50 slow/basic premium chat requests. | Purpose-built AI-first editor (VS Code fork) with deep agentic multi-file Composer workflows. |
+| **Sourcegraph Cody** | **~$2.6B Valuation** (~$50M ARR) | **$9/user/month** (Pro plan: unlimited chat, premium model choices) | **Free tier available**: Unlimited autocomplete suggestions and 200 chats/prompts per month. | Codebase-wide awareness and multi-repo context for enterprise and individual developers. |
+| **Tabnine** | **~$100M Valuation** (~$27M ARR) | **$39/user/month** (Dev plan: agentic workflows, self-hosted/cloud options; +5% token pass-through) | **90-day free trial** (for Dev tier evaluation; former permanent free basic tier retired). | Privacy-focused AI code assistant with air-gapped and on-premises deployment for regulated industries. |
 
 
 

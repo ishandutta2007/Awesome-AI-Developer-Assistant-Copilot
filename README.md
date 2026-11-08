@@ -2,7 +2,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-AI-Developer-Assistant-Copilot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Developer-Assistant-Copilot?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-AI-Developer-Assistant-Copilot/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Developer-Assistant-Copilot?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Developer-Assistant-Copilot/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Developer-Assistant-Copilot?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Developer-Assistant-Copilot/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Developer-Assistant-Copilot?style=flat-square&color=blue" alt="GitHub Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-AI-Developer-Assistant-Copilot/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -31,7 +31,7 @@
 
 Welcome to the ultimate directory for **AI Developer Assistants**, **AI Copilots**, and **Autonomous Coding Agents**! 🎯
 
-Software engineering has fundamentally shifted from manual boilerplate creation to **human-AI collaboration** and **agentic software development**. Whether you require enterprise-grade SaaS tools equipped with state-of-the-art frontier models (Claude 3.7/Sonnet, GPT-4o, Gemini 2.5 Pro) or 100% self-hosted, air-gapped open-source code copilots running locally via Ollama or vLLM, this repository indexes the best-in-class solutions with verified metrics, transparent pricing structures, and star counts.
+Software engineering has fundamentally shifted from manual boilerplate creation to **human-AI collaboration** and **agentic software development**. Whether you require enterprise-grade SaaS tools equipped with state-of-the-art frontier models (Claude 3.7/Sonnet, GPT-4o, Gemini 2.5 Pro) or 100% self-hosted, air-gapped open-source code copilots running locally via Ollama or vLLM, this repository indexes the best-in-class solutions with verified metrics, transparent pricing structures, and Stars_Counts.
 
 ### 🔍 Key Categories Covered:
 - 🛠️ **Autonomous Software Engineering Agents**: Multi-step file planning, bash execution, and automatic bug fixing.
@@ -84,7 +84,7 @@ Structurally, the sector exhibits a **concentrated core with a highly fragmented
 
 ## 🔓 Open-Source GitHub Projects
 
-> **Open-Source Guarantee**: All repositories below are community-maintained and open-source. Sorted strictly in descending order of **GitHub Star Count** ⭐.
+> **Open-Source Guarantee**: All repositories below are community-maintained and open-source. Sorted strictly in descending order of **GitHub Stars_Count** ⭐.
 
 ### 1. **OpenHands** 
 [![Stars](https://img.shields.io/github/stars/all-hands-ai/OpenHands?style=social&color=white)](https://github.com/all-hands-ai/OpenHands/stargazers)
@@ -217,7 +217,7 @@ Contributions are welcome and highly appreciated! 🚀
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-assistant`.
 3. 📝 **Add or update the tool**:
-   - Provide verified GitHub star counts or official enterprise pricing.
+   - Provide verified GitHub Stars_Counts or official enterprise pricing.
    - Include links to official repositories or project sites.
    - Maintain the existing tabular / markdown formatting.
 4. 📬 **Submit a Pull Request** with a descriptive summary of your additions.

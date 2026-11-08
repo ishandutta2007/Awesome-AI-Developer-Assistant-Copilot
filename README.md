@@ -84,7 +84,7 @@ Structurally, the sector exhibits a **concentrated core with a highly fragmented
 
 ## 🔓 Open-Source GitHub Projects
 
-> **Open-Source Guarantee**: All repositories below are community-maintained and open-source. Sorted strictly in descending order of **GitHub Stars_Count** ⭐.
+> **Open-Source Guarantee**: All repositories below are community-maintained and open-source. Sorted strictly in descending order of **GitHub_Stars_Count** ⭐.
 
 ### 1. **OpenHands** 
 [![Stars](https://img.shields.io/github/stars/all-hands-ai/OpenHands?style=social&color=white)](https://github.com/all-hands-ai/OpenHands/stargazers)
@@ -217,7 +217,7 @@ Contributions are welcome and highly appreciated! 🚀
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-assistant`.
 3. 📝 **Add or update the tool**:
-   - Provide verified GitHub Stars_Counts or official enterprise pricing.
+   - Provide verified GitHub_Stars_Counts or official enterprise pricing.
    - Include links to official repositories or project sites.
    - Maintain the existing tabular / markdown formatting.
 4. 📬 **Submit a Pull Request** with a descriptive summary of your additions.
